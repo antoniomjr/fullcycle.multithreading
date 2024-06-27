@@ -11,9 +11,9 @@ In this challenge you will have to use what you learn with Multithreading and AP
 
 The two requests will be made simultaneously to the following APIs:
 
-https://brasilapi.com.br/api/cep/v1/"cep" 
+https://brasilapi.com.br/api/cep/v1/{cep}
 
-http://viacep.com.br/ws/" + cep + "/json/
+http://viacep.com.br/ws/{cep}/json/
 
 The requirements for this challenge are:
 
