@@ -36,8 +36,8 @@ This will run the application
 ```bash
 go run main.go cep
 ```
-![Screenshot 2024-02-20 at 23 01 45](https://github.com/antoniomjr/fullcycle/assets/53837075/5cbf6a88-f229-4cf6-910e-f83c496175a5)
-
+![Screenshot 2024-06-26 at 22 58 03](https://github.com/antoniomjr/fullcycle.multitrade/assets/53837075/9eab7413-4bec-40b6-aa77-8454c8187f4f)
+![Screenshot 2024-06-26 at 22 58 31](https://github.com/antoniomjr/fullcycle.multitrade/assets/53837075/c86e14d4-caef-4619-93b3-23b4b84b252f)
 
 > [!WARNING]  
 > 
